@@ -1,3 +1,6 @@
+// Nama	: RIZZA HAFIDZ AL IQHWAL
+// NIM	: 103062300081
+
 package main
 
 import (
